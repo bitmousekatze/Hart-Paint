@@ -2,8 +2,8 @@
 
 **A beautiful, fully-featured digital painting app that runs 100% in your browser.**
 
-![H♥RT Paint Screenshot](https://via.placeholder.com/1280x720/111111/ffffff?text=H%E2%99%A5RT+Paint+Screenshot)  
-*(Add your screenshots here — canvas with layers, color picker, timelapse preview, etc.)*
+![H♥RT Paint Screenshot](hartpaint.png)
+
 
 **Try it now:** Just download `hart-paint.html` and open it in any modern browser (Chrome, Firefox, Edge, Safari). No install, no server, no dependencies.
 
